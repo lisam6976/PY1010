@@ -4,6 +4,8 @@ PY1010 - Arbeidskrav 1
 Lisa Lindseth Samuelsen
 
 @author: Lisa
+
+Oppgåva er å reikne ut og presentere dei årlege totalkostnadane for elbil og bensinbil, samt årleg kostnadsdifferanse.
 """
 
 print("Kostnadar for bensinbil")
